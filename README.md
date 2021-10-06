@@ -10,11 +10,13 @@ Replacing the ninth graders' reading and math scores had a minimal influence on 
 Similar to the district summary, replacing the ninth graders' reading and math scores had a minimal influence on the overall scores (Average Math Score, Average Reading Scores, % Passing Math, % Passing Reading, and % Overall Passing). For example, the per_school_summary_df in the (file name) for the module analysis (with THS 9th graders) yields an Average Math Score of 83.42 %. However, the same dataframe (district_summary_df) for the challenge analysis yields an Average Math Score of 83.35 %; this is only a 0.07 % difference. Similar small differences are observed for the other overall scores. Remember to put files here
 
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools?
-In relation to other schools, replacing the THS 9th graders' reading and math scores puts THS's preformance in the top 5 schools for % Overall Passing. Even with the potential academic misconduct, students from THS preform very well in comparison to other schools.
+In relation to other schools, replacing the THS 9th graders' reading and math scores puts THS's preformance in the top 5 schools for % Overall Passing. Even without the potential academic misconduct, students from THS preform very well in comparison to other schools (picture).
 
 ## How does replacing the ninth-grade scores affect the following:
 
-- Math and reading scores by grade: 
+- Math and reading scores by grade
+  - Math Scores: Replacing the ninth-grade math scores with a null value has a minimal effect on the overall school average (With ninth-graders = vs without ninth-graders = )
+  - Reading Scores: Replacing the ninth-grade reading scores with a null value has a minimal effect on the overall school average (With ninth-graders = vs without ninth-graders = )
 - Scores by school spending
 - Scores by school size
 - Scores by school type
