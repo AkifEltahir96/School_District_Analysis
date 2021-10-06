@@ -22,3 +22,9 @@ Replacing the THS 9th graders' reading and math scores does not change THS's pre
 - Scores by school type: Scores by school type do not change after replacing the ninth-grade scores (spending_summary_df picture).
 
 # Summary
+
+In conclusion, replacing the 9th grade THS students' reading and math scores had very little impact on the overall math and reading preformance across the school district. However, I will note four changes below.
+  1) District summary
+  2) District summary
+  3) School summary
+  4) School summary
