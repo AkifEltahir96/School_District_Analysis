@@ -15,7 +15,7 @@ Similar to the district summary, replacing the ninth graders' reading and math s
 
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools?
 Grade Replacement:
-![School Preformance](https://github.com/AkifEltahir96/School_District_Analysis/blob/main/Pictures/school_performance.png)
+![School Preformance](https://github.com/AkifEltahir96/School_District_Analysis/blob/main/Pictures/school_preformance.png)
 Replacing the THS 9th graders' reading and math scores does not change THS's preformance amongst all of the schools in the district. In both analyses (with and without replacement), THS students remain in the top 5 schools for % Overall Passing. Even without the potential academic misconduct, students from THS preform very well in comparison to other schools.
 
 ## How does replacing the ninth-grade scores affect the following:
