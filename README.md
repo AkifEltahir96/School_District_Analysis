@@ -4,7 +4,9 @@ The purpose of this analysis is to provide evidence regarding a case of academic
 
 # Results
 ## How is the district summary affected?
-Replacing the ninth graders' reading and math scores had a minimal influence on the overall scores (Average Math Score, Average Reading Scores, % Passing Math, % Passing Reading, and % Overall Passing). For example, the district_summary_df in the for the module analysis (with THS 9th graders) yields an Average Math Score of 79.0 %. However, the same dataframe (district_summary_df) for the challenge analysis yields an Average Math Score of 78.9 %; this is only a 0.1 % difference. Similar small differences are observed for the other overall scores as seen in ! [district_summary_df.png](School_District_Analysis/Resources/district_summary_df.png).
+District Summary:
+![district_summary_df.png](School_District_Analysis/Resources/district_summary_df.png).
+Replacing the ninth graders' reading and math scores had a minimal influence on the overall scores (Average Math Score, Average Reading Scores, % Passing Math, % Passing Reading, and % Overall Passing). For example, for the district_summary_df in the module analysis (with THS 9th graders) yields an Average Math Score of 79.0 %. However, the same dataframe (district_summary_df) for the challenge analysis yields an Average Math Score of 78.9 %; this is only a 0.1 % difference. Similar small differences are observed for the other overall scores as seen in the screenshot above.
 
 ## How is the school summary affected?
 Similar to the district summary, replacing the ninth graders' reading and math scores had a minimal influence on the overall scores (Average Math & Reading, % Passing Math & Reading, and % Overall Passing).  For example, the per_school_summary_df in the (file name) for the module analysis (with THS 9th graders) yields an Average Math Score of 83.42 %. However, the same dataframe (district_summary_df) for the challenge analysis yields an Average Math Score of 83.35 %; this is only a 0.07 % difference. Similar small differences are observed for the other parameters ! [school_summary_df.png](School_District_Analysis/Resources/school_summary_df.png).
