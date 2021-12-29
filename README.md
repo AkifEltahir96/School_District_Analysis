@@ -30,6 +30,7 @@ Replacing the THS 9th graders' reading and math scores does not change THS's pre
 # Summary
 
 In conclusion, replacing the 9th grade THS students' reading and math scores had very little impact on the overall math and reading preformance across the school district. However, I will note four changes below.
+
 District Summary (Points 1 to 3): ![District Summary](https://github.com/AkifEltahir96/School_District_Analysis/blob/main/Pictures/district_summary_df.png)
 School Summary (Point 4): ![School Summary](https://github.com/AkifEltahir96/School_District_Analysis/blob/main/Pictures/school_summary_df.png)
   1) Before replacing THS ninth-graders math and reading scores, the % Passing Math is 75.0 %. However, after replacement, this drops to 74.8 %.
